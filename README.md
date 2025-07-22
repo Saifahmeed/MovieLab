@@ -27,7 +27,7 @@ This project is for learning purposes.
 
 Watch a demo of the website in action:
 
-[Click here to view the demo on Google Drive]([https://drive.google.com/your-demo-link](https://drive.google.com/file/d/1CGcvC-wZ4QqiHK7rYhTtjYpzqBHVZioj/view?usp=sharing))
+[Click here to view the demo on Google Drive](https://drive.google.com/file/d/1k-gd1zkuE8KhDBy2G0hY1ZqDRULd9Qrq/view?usp=sharing)
 
 
 ## Getting Started
